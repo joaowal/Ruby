@@ -1,0 +1,18 @@
+== README (Challenge RD - João Waldemiro)
+
+The application is divided in three parts, called "Segmentacao":
+1) A list of all contacts with the option to filter by state and age;
+2) Proposed results for the challenge;
+3) Register / inclusion of new user;
+
+All system actions are available in the main / root page (index.html.erb), which was created a route.
+
+The BD insertion data are available in the following path: C:/ruby/rails/targeting/dbdevelopment.sqlite3
+
+* Ruby version 2.1.7 (2015-08-18 Windows x64)
+* Run as C:/ruby/rails/Segmentacao  (rails s)
+* Database creation sqlite3
+* Deployment instructions
+
+
+
